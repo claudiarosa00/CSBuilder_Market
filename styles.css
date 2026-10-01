@@ -1,9 +1,9 @@
 /*
 ============================================
 1. CONFIGURAÇÃO GERAL
-Paleta neutra (teal), usada como único acento — o resto
-é neutros, para o conjunto ficar "clean" e não parecer
-decorado a mais. Manter tudo aqui em cima facilita
+Paleta neutra (azul cobalto), usada como único acento — o
+resto é neutros, para o conjunto ficar "clean" e não
+parecer decorado a mais. Manter tudo aqui em cima facilita
 alterar o aspeto geral sem procurar por todo o ficheiro.
 ============================================
 */
@@ -11,9 +11,9 @@ alterar o aspeto geral sem procurar por todo o ficheiro.
   --cor-fundo: #f7f5f4;
   --cor-texto: #1a1a1a;
   --cor-texto-suave: #6b6560;
-  --cor-destaque: #0f766e;        /* teal — cor de acento única */
-  --cor-destaque-escuro: #0b5c56;
-  --cor-destaque-suave: #d8f3f0;  /* teal muito claro, para fundos/badges */
+  --cor-destaque: #0047ab;        /* azul cobalto — cor de acento única */
+  --cor-destaque-escuro: #00336e;
+  --cor-destaque-suave: #dde8f8;  /* azul muito claro, para fundos/badges */
   --cor-escuro: #1a1a1a;          /* antracite escuro, neutro */
   --cor-borda: #e6e2df;
   --cor-fundo-cartao: #ffffff;
