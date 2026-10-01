@@ -11,9 +11,9 @@ alterar o aspeto geral sem procurar por todo o ficheiro.
   --cor-fundo: #f7f5f4;
   --cor-texto: #1a1a1a;
   --cor-texto-suave: #6b6560;
-  --cor-destaque: #3b82f6;        /* azul claro — cor de acento única */
-  --cor-destaque-escuro: #1d4ed8;
-  --cor-destaque-suave: #dbeafe;  /* azul muito claro, para fundos/badges */
+  --cor-destaque: #60a5fa;        /* azul claro — cor de acento única */
+  --cor-destaque-escuro: #3b82f6;
+  --cor-destaque-suave: #eff6ff;  /* azul muito claro, para fundos/badges */
   --cor-escuro: #1a1a1a;          /* antracite escuro, neutro */
   --cor-borda: #e6e2df;
   --cor-fundo-cartao: #ffffff;
