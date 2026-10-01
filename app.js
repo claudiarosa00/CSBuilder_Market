@@ -1787,7 +1787,7 @@ Usa a biblioteca ExcelJS (lib/exceljs.min.js).
 ============================================
 */
 const CONFIG_EXCEL = {
-  corCabecalho: "FF0047AB",
+  corCabecalho: "FF3D4CCA",
   ficheiroLogo: "assets/logo-generico.png",
   proporcaoLogo: 1,
 };
