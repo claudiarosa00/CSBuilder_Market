@@ -1,7 +1,7 @@
 /*
 ============================================
 1. CONFIGURAÇÃO GERAL
-Paleta neutra (azul índigo), usada como único acento — o
+Paleta neutra (azul claro), usada como único acento — o
 resto é neutros, para o conjunto ficar "clean" e não
 parecer decorado a mais. Manter tudo aqui em cima facilita
 alterar o aspeto geral sem procurar por todo o ficheiro.
@@ -11,9 +11,9 @@ alterar o aspeto geral sem procurar por todo o ficheiro.
   --cor-fundo: #f7f5f4;
   --cor-texto: #1a1a1a;
   --cor-texto-suave: #6b6560;
-  --cor-destaque: #3d4cca;        /* azul índigo — cor de acento única */
-  --cor-destaque-escuro: #28338c;
-  --cor-destaque-suave: #e3e5fa;  /* índigo muito claro, para fundos/badges */
+  --cor-destaque: #3b82f6;        /* azul claro — cor de acento única */
+  --cor-destaque-escuro: #1d4ed8;
+  --cor-destaque-suave: #dbeafe;  /* azul muito claro, para fundos/badges */
   --cor-escuro: #1a1a1a;          /* antracite escuro, neutro */
   --cor-borda: #e6e2df;
   --cor-fundo-cartao: #ffffff;
@@ -124,8 +124,8 @@ a marca fica presente sem o cabeçalho gritar em vermelho.
 
 .logo-cabecalho {
   display: block;
-  height: 150px;
-  width: 150px;
+  height: 64px;
+  width: 64px;
   border-radius: 10px;
   flex-shrink: 0;
 }
@@ -1122,8 +1122,8 @@ não tira nenhuma funcionalidade real, só espaço que não há.
   }
 
   .logo-cabecalho {
-    height: 56px;
-    width: 56px;
+    height: 40px;
+    width: 40px;
   }
 
   .cabecalho h1 {
